@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish Sibanjar
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning Laravel Framework
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
